@@ -1,2 +1,2 @@
 # Data-Analytics
-Repository for related Data Analytics topics and related projects
+Repository for Data Analytics topics and related projects
